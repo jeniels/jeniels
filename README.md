@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Jeniel Shah</h1>
 <h3 align="center">Passionate Software Developer | Learning and Innovating with Code 🚀</h3>
-- 🌱 I’m currently learning **Backend development , cloud computing and devops
+- 🌱 I’m currently learning Backend development , cloud computing and devops
 
 
 
